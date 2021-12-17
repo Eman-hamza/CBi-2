@@ -1,2 +1,2 @@
-# CBi-2
+# peptide_and_protein
 assigment 2
